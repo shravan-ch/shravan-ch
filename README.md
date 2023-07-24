@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shravan-ch
 - 🌱 Unified Data Platform (UDP) II Team
-- 📫 shravan.cheekati@dexcom.com
+- 📫 shravan.cheekati@dexcom.com |
      shravancheekati1@gmail.com
 
 <!---
